@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
-
-import "./App.css";
+import { Chat } from "@/components/chat";
 
 function App() {
   return (
